@@ -1,1 +1,1 @@
-token="7660613086:AAFwFiqcYCEksCNGq0ZnvHeQwLXB8LVCaAQ"
+token="YOUR TOKEN"
