@@ -9,3 +9,5 @@ Prima dell'uso, consiglio vivamente di installare un ambiente virtuale
 Avant utilisation, je recommande fortement d'installer un environnement virtuel
 Vor der Verwendung empfehle ich dringend, eine virtuelle Umgebung zu installieren
 Shǐyòng zhīqián qiángliè jiànyì ānzhuāng xūnǐ huánjìng (使用之前强烈建议安装虚拟环境)
+
+And set your own token in config.py
